@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d4333e3aaa6ba041ba9839889c9bab4, type: 3}
+  m_Name: corridortopright
+  m_EditorClassIdentifier: 
+  cardType: 0
+  directions: 0100000003000000
+  image: {fileID: 2800000, guid: 67bf25dca1da2cd42a1a92f3d0f7a5cd, type: 3}
